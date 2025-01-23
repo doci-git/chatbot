@@ -1,0 +1,62 @@
+{
+  "greetings": [
+    {
+      "type": "text",
+      "content": "Ciao! Come posso aiutarti?"
+    },
+    {
+      "type": "image",
+      "content": "./img/test4.png"
+    }
+  ],
+  "photo": [
+    {
+      "type": "text",
+      "content": "Ciao! Come posso aiutarti?"
+    },
+    {
+      "type": "image",
+      "content": "./img/test4.png"
+    }
+  ],
+  "help": [
+    {
+      "type": "text",
+      "content": [
+        "-Here what you van ask me",
+        "-how to use blinders",
+        "-how to use coffee machine",
+        "-how to move around",
+        "-where to store the luggage",
+        "-wifi code",
+        "-check-out info"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "type": "text",
+      "content": "Puoi consultare la nostra pagina FAQ sul sito!"
+    },
+    {
+      "type": "video",
+      "content": "./video/check-in4.mp4"
+    }
+  ],
+  "lugg": [
+    {
+      "type": "text_with_link",
+      "content": "Dear guest, Storing your luggage on-sit after the check-out time, is challenging for us because we dont have a proper place were to store them, and we need to prepare rooms for upcoming guests.Fortunately, there is a convenient luggage storage facility at the nearby train station,where you can securely leave your belongings. The cost is 1 euro hour or 6 euros for the entire day. We appreciate your understanding and hope this alternative meets your needs. Check the link ->",
+      "link": {
+        "url": "https://leftluggageflorence.com/",
+        "text": "click me"
+      }
+    }
+  ],
+  "default": [
+    {
+      "type": "text",
+      "content": "Mi dispiace, non ho capito. Puoi riformulare la domanda?"
+    }
+  ]
+}
