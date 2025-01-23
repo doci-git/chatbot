@@ -19,7 +19,8 @@ fetch("responses.json")
 
 // Mostra un messaggio iniziale
 function showInitialMessage() {
-  addMessage();
+ 
+  addMessage( "");
 }
 
 // Aggiungi un messaggio alla chat

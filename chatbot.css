@@ -26,7 +26,7 @@
   position: fixed;
   bottom: 100px;
   right: 10px;
-  width: 300px;
+  width: 340px;
   background: #ffffff;
   border: 1px solid #ccc;
   border-radius: 10px;
@@ -49,13 +49,13 @@
 /* Messaggi e input */
 #messages {
   padding: 10px;
-  height: 200px;
+  height: 250px;
   overflow-y: auto;
   border-bottom: 1px solid #ccc;
 }
 
 .message {
-  margin: 5px 0;
+  margin: 5px 10px;
 }
 
 .message.user {
@@ -66,7 +66,7 @@
 .message.bot {
   text-align: left;
   color: #036e1c;
-  font-size: 0.9rem;
+  font-size: 0.96rem;
 }
 
 #user-input {
