@@ -5,19 +5,25 @@
       "content": "Ciao! Come posso aiutarti?"
     },
     {
-      "type": "image",
-      "content": "./img/test4.png"
+      "type": "text",
+      "content": "hi how i can hep you?"
+    }
+  ],
+  "blind": [
+    {
+      "type": "video",
+      "content": "./video/shutter.mp4"
     }
   ],
   "photo": [
     {
-      "type": "text",
-      "content": "Ciao! Come posso aiutarti?"
+      "content": "Dear guest, the fast way to get close to the main attractions is by taking the tram,                if you dont want to walk From the Apartment take the (tram T2 directios Unita). The Tram stop near apartment is called: (Belfiore) In 3 stops takes you near Duomo and you have to stop at: (Unita) You can use the same tram (T2 direction Peretola) to get back to the apartment it takes only 5/8 min (type tram)" 
     },
-    {
-      "type": "image",
-      "content": "./img/test4.png"
-    }
+     {
+       "type": "image",
+       "content": "./image/test.img.jpeg"
+     }
+    
   ],
   "help": [
     {

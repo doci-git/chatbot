@@ -66,8 +66,9 @@ function getBotResponse(userMessage) {
   const lowerMessage = userMessage.toLowerCase();
 
   const keywords = {
-    greetings: ["ciao", "salve", "buongiorno"],
-    photo: ["foto", "immagine", "photo"],
+    greetings: ["ciao", "hi", "hello", "buongiorno"],
+    blind: ["shutters", "blinders"],
+    photo: ["transport", "tram", "photo"],
     faq: ["video", "guarda video", "play video"],
     help: ["aiuto", "help", "assistenza"],
     lugg: ["luggage", "valige", "lug"],
