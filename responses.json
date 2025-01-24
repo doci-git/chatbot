@@ -72,9 +72,25 @@
     {
       "type": "text",
       "content": [
-        "Dear guest here are the numbers to book a taxi" , 
+        "Dear guest here are the numbers you can call to book a taxi",
         "0039 4390 or 0039 4242"
       ]
+    }
+  ],
+  "ticket": [
+    {
+      "type": "text_with_link",
+      "content": "Dear guest, if your looking for tram ticket at every stop there is a red machine where you can buy it by chash or card. the ticket is valid for 90min once inside the tram you have to validate it... if you want to book train ticket here is the official website main destinations have fast and normal trains Check the link ->",
+      "link": {
+        "url": "https://leftluggageflorence.com/",
+        "text": "oficial train ticket website"
+      }
+    }
+  ],
+  "other": [
+    {
+      "type": "text",
+      "content": "if you are looking for difrent info send me a sms direcly i will be more than hapy to help you :)"
     }
   ],
   "default": [

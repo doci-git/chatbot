@@ -75,6 +75,8 @@ function getBotResponse(userMessage) {
     lugg: ["luggage", "valige", "lug"],
     checkout: ["checkout", "check-out", "keys", "leave"],
     taxi: ["taxi", "cab", "uber"],
+    ticket: ["ticket", "trainticket", "box office"],
+    other: ["taxi", "cab", "uber"],
   };
 
   for (const [category, words] of Object.entries(keywords)) {
