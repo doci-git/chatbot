@@ -3,7 +3,9 @@
     {
       "type": "text",
       "content": "Ciao! Come posso aiutarti?"
-    },
+    }
+  ],
+  "greeting": [
     {
       "type": "text",
       "content": "hi how i can hep you?"
@@ -17,20 +19,22 @@
   ],
   "photo": [
     {
-      "content": "Dear guest, the fast way to get close to the main attractions is by taking the tram,                if you dont want to walk From the Apartment take the (tram T2 directios Unita). The Tram stop near apartment is called: (Belfiore) In 3 stops takes you near Duomo and you have to stop at: (Unita) You can use the same tram (T2 direction Peretola) to get back to the apartment it takes only 5/8 min (type tram)" 
-    },
-     {
-       "type": "image",
-       "content": "./image/test.img.jpeg"
-     }
-    
+      "content": "Dear guest, the fast way to get close to the main attractions is by taking the tram,                if you dont want to walk From the Apartment take the (tram T2 directios Unita). The Tram stop near apartment is called: (Belfiore) In 3 stops takes you near Duomo and you have to stop at: (Unita) You can use the same tram (T2 direction Peretola) to get back to the apartment it takes only 5/8 min (type linefoto)"
+    }
   ],
+  "fototram": [
+    {
+      "type": "image",
+      "content": "./image/test.img.jpeg"
+    }
+  ],
+
   "help": [
     {
       "type": "text",
       "content": [
-        "-Here what you van ask me",
-        "-how to use blinders",
+        "-vodafone 203392",
+        "-code: wfddsvfdfv",
         "-how to use coffee machine",
         "-how to move around",
         "-where to store the luggage",
@@ -39,10 +43,13 @@
       ]
     }
   ],
-  "faq": [
+  "wifi": [
     {
       "type": "text",
-      "content": "Puoi consultare la nostra pagina FAQ sul sito!"
+      "content": [
+        "name-:vodafone 203392" ,
+        "code-: wfddsvfdfv"
+      ]
     },
     {
       "type": "video",
