@@ -46,14 +46,7 @@
   "wifi": [
     {
       "type": "text",
-      "content": [
-        "name-:vodafone 203392" ,
-        "code-: wfddsvfdfv"
-      ]
-    },
-    {
-      "type": "video",
-      "content": "./video/check-in4.mp4"
+      "content": ["name-:vodafone 203392", "code-: wfddsvfdfv"]
     }
   ],
   "lugg": [
@@ -64,6 +57,24 @@
         "url": "https://leftluggageflorence.com/",
         "text": "click me"
       }
+    }
+  ],
+  "checkout": [
+    {
+      "type": "text",
+      "content": [
+        "Dear guest for the check-out you have just to leave the keys in the table inside the room, and make sure not to forget anything",
+        " turn of light an AC and close the doors.  We wish you a nice trip pon your next destination :)"
+      ]
+    }
+  ],
+  "taxi": [
+    {
+      "type": "text",
+      "content": [
+        "Dear guest here are the numbers to book a taxi" , 
+        "0039 4390 or 0039 4242"
+      ]
     }
   ],
   "default": [

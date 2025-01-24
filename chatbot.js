@@ -66,14 +66,15 @@ function getBotResponse(userMessage) {
   const lowerMessage = userMessage.toLowerCase();
 
   const keywords = {
-    greetings: ["ciao","salve","buongiorno"],
+    greetings: ["ciao", "salve", "buongiorno"],
     greeting: ["hi", "hello"],
     blind: ["shutters", "blinders"],
     photo: ["transport", "tram", "photo"],
-    fototram: ["linefoto",],
+    fototram: ["linefoto"],
     wifi: ["wifi", "code", "internet"],
-    faq: ["video", "guarda video", "play video"],
     lugg: ["luggage", "valige", "lug"],
+    checkout: ["checkout", "check-out", "keys", "leave"],
+    taxi: ["taxi", "cab", "uber"],
   };
 
   for (const [category, words] of Object.entries(keywords)) {
