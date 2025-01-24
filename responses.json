@@ -97,6 +97,12 @@
       "content": "Hi if you are looking for restaurats bars or other take a look to the website, just navigate thru navbar you will find alot of places nearby:)"
     }
   ],
+  "coffy": [
+    {
+      "type": "video",
+      "content": "./video/caffe.mp4"
+    }
+  ],
   "other": [
     {
       "type": "text",
