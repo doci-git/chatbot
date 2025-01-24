@@ -19,8 +19,7 @@ fetch("responses.json")
 
 // Mostra un messaggio iniziale
 function showInitialMessage() {
- 
-  addMessage( "");
+  addMessage("");
 }
 
 // Aggiungi un messaggio alla chat
@@ -76,6 +75,7 @@ function getBotResponse(userMessage) {
     checkout: ["checkout", "check-out", "keys", "leave"],
     taxi: ["taxi", "cab", "uber"],
     ticket: ["ticket", "trainticket", "box office"],
+    resta: ["bar", "restaurant", "food"],
     other: ["other"],
   };
 

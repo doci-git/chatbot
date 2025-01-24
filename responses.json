@@ -19,7 +19,7 @@
   ],
   "photo": [
     {
-      "content": "Dear guest, the fast way to get close to the main attractions is by taking the tram,                if you dont want to walk From the Apartment take the (tram T2 directios Unita). The Tram stop near apartment is called: (Belfiore) In 3 stops takes you near Duomo and you have to stop at: (Unita) You can use the same tram (T2 direction Peretola) to get back to the apartment it takes only 5/8 min (type linefoto)"
+      "content": "Dear guest, the fast way to get close to the main attractions is by taking the tram , if you dont want to walk From the Apartment take the (tram T2 directios Unita). The Tram stop near apartment is called: (Belfiore) . In 3 stops takes you near Duomo and you have to stop at: (Unita) You can use the same tram (T2 direction Peretola) to get back to the apartment it takes only 5/8 min (type linefoto)"
     }
   ],
   "fototram": [
@@ -46,16 +46,20 @@
   "wifi": [
     {
       "type": "text",
-      "content": ["name-:vodafone 203392", "code-: wfddsvfdfv"]
+      "content": [
+        "Here you have the wifi access. Aslo for faster conection scan the QR code on the brochure you have on table",
+        " name-: vodafone 203392",
+        "code-: wfddsvfdfv"
+      ]
     }
   ],
   "lugg": [
     {
       "type": "text_with_link",
-      "content": "Dear guest, Storing your luggage on-sit after the check-out time, is challenging for us because we dont have a proper place were to store them, and we need to prepare rooms for upcoming guests.Fortunately, there is a convenient luggage storage facility at the nearby train station,where you can securely leave your belongings. The cost is 1 euro hour or 6 euros for the entire day. We appreciate your understanding and hope this alternative meets your needs. Check the link ->",
+      "content": "Dear guest, Storing your luggage on-sit after the check-out time, is challenging for us because we dont have a proper place were to store them, and we need to prepare rooms for upcoming guests. Fortunately, there is a convenient luggage storage facility at the nearby train station,where you can securely leave your belongings. The cost is 1 euro hour or 6 euros for the entire day. We appreciate your understanding and hope this alternative meets your needs. Check the link ->",
       "link": {
         "url": "https://leftluggageflorence.com/",
-        "text": "click me"
+        "text": "storage luggage"
       }
     }
   ],
@@ -64,7 +68,7 @@
       "type": "text",
       "content": [
         "Dear guest for the check-out you have just to leave the keys in the table inside the room, and make sure not to forget anything",
-        " turn of light an AC and close the doors.  We wish you a nice trip pon your next destination :)"
+        " turn of light A/C and close the doors.  We wish you a nice trip on your next destination :)"
       ]
     }
   ],
@@ -80,17 +84,23 @@
   "ticket": [
     {
       "type": "text_with_link",
-      "content": "Dear guest, if your looking for tram ticket at every stop there is a red machine where you can buy it by cash or card. the ticket is valid for 90min once inside the tram you have to validate it... if you want to book train ticket here is the official website main destinations have fast and normal trains Check the link ->",
+      "content": "Dear guest, if your looking for tram ticket at every stop there is a red machine where you can buy it by cash or card. The ticket is valid for 90min once inside the tram you have to validate it... If you want to book train ticket check the official website, all main destinations have fast and normal trains Check the link ->",
       "link": {
         "url": "https://leftluggageflorence.com/",
-        "text": "oficial train ticket website"
+        "text": "trenitalia website"
       }
+    }
+  ],
+  "resta": [
+    {
+      "type": "text",
+      "content": "Hi if you are looking for restaurats bars or other take a look to the website, just navigate thru navbar you will find alot of places nearby:)"
     }
   ],
   "other": [
     {
       "type": "text",
-      "content": "if you are looking for difrent info send me a sms direcly i will be more than hapy to help you :)"
+      "content": "if you are looking for different info send me a sms directly i will be more than happy to help you:)"
     }
   ],
   "default": [
