@@ -77,6 +77,8 @@ function getBotResponse(userMessage) {
     ticket: ["ticket", "trainticket", "box office"],
     resta: ["bar", "restaurant", "food"],
     coffy: ["coffee", "cafe", "coffeey"],
+    tap: ["tapwate", "tap"],
+    hot: ["hotwater","hot"],
     other: ["other"],
   };
 

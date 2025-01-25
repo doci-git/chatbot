@@ -103,6 +103,18 @@
       "content": "./video/caffe.mp4"
     }
   ],
+  "tap": [
+    {
+      "type": "text",
+      "content": "dear guest the water in room is drinketable if you want to use it. personally i dont like the taste it have but i safe"
+    }
+  ],
+  "hot": [
+    {
+      "type": "text",
+      "content": "dear guest the hot water it takes 30 to 50 seconds to arrive because it use an instant heating system. if hot water is not coming send me a sms"
+    }
+  ],
   "other": [
     {
       "type": "text",
