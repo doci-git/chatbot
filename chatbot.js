@@ -82,6 +82,7 @@ function getBotResponse(userMessage) {
     other: ["other"],
     stu: ["stupid", "silly"],
     stu1: ["there"],
+    help: ["help"],
   };
 
   for (const [category, words] of Object.entries(keywords)) {

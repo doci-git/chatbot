@@ -8,7 +8,7 @@
   "greeting": [
     {
       "type": "text",
-      "content": "hi how i can help you?"
+      "content": "Hi how i can help you?"
     }
   ],
   "blind": [
@@ -33,14 +33,9 @@
     {
       "type": "text",
       "content": [
-        "-vodafone 203392",
-        "-code: wfddsvfdfv",
-        "-how to use coffee machine",
-        "-how to move around",
-        "-where to store the luggage",
-        "-wifi code",
-        "-check-out info"
-      ]
+    "check the list again what you can ask me"
+  ]
+      
     }
   ],
   "wifi": [
@@ -126,13 +121,13 @@
    "stu": [
     {
       "type": "text",
-      "content": "It might sound a bit silly or stupid, but I’m just a chatbot! My creator tries to predict your questions and give you the best answers.Here’s a little joke: Knock Knock type (Who is there)"
+      "content": "It might sound a bit silly or stupid, but I’m just a chatbot! My creator tries to predict your questions and give you the best answers. Here’s a little joke: Knock Knock type (Who is there)"
     }
   ],
   "stu1": [
     {
       "type": "text",
-      "content": "who is the stupid now ahahaha dont get mad i already predicted this"
+      "content": "who is the silly one now ahahaha ,dont get mad i already predicted this"
     }
   ]
 }
