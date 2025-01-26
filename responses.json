@@ -19,7 +19,7 @@
   ],
   "photo": [
     {
-      "content": "Dear guest, the fast way to get close to the main attractions is by taking the tram , if you dont want to walk From the Apartment take the (tram T2 directios Unita). The Tram stop near apartment is called: (Belfiore) . In 3 stops takes you near Duomo and you have to stop at: (Unita) You can use the same tram (T2 direction Peretola) to get back to the apartment it takes only 5/8 min to see a photo type (linefoto)"
+      "content": "Dear Guest,The fastest way to reach the main attractions, if you prefer not to walk, is by taking the tram . From the apartment, take tram T2 in the direction of Unita . The tram stop near the apartment is called Belfiore . In just 3 stops, you’ll arrive near the Duomo; get off at Unita . To return to the apartment, simply take the same tram T2 in the direction of Peretola. The trip takes only 5-8 minutes. For a visual guide, type (linefoto) . Enjoy exploring the city"
     }
   ],
   "fototram": [
@@ -47,16 +47,14 @@
     {
       "type": "text",
       "content": [
-        "Here you have the wifi access. Aslo for faster conection scan the QR code on the brochure you have on table",
-        " name-: vodafone 203392",
-        "code-: wfddsvfdfv"
+        "Wi-Fi Access Information Here are the details to connect to the" , " Wi-Fi:Name: Vodafone 203392 Code: wfddsvfdfv" , " For a faster connection, you can also scan the QR code provided on the brochure located on the table . Enjoy your stay"
       ]
     }
   ],
   "lugg": [
     {
       "type": "text_with_link",
-      "content": "Dear guest, Storing your luggage on-sit after the check-out time, is challenging for us because we dont have a proper place were to store them, and we need to prepare rooms for upcoming guests. Fortunately, there is a convenient luggage storage facility at the nearby train station,where you can securely leave your belongings. The cost is 1 euro hour or 6 euros for the entire day. We appreciate your understanding and hope this alternative meets your needs. Check the link ->",
+      "content": "Dear Guest,Storing luggage on-site after check-out is challenging for us as we don’t have a proper storage space and need to prepare the rooms for upcoming guests . Fortunately, there’s a convenient luggage storage facility at the nearby train station where you can securely leave your belongings. The cost is €1 per hour or €6 for the entire day. We appreciate your understanding and hope this alternative works for you. You can find more details at the following link:->",
       "link": {
         "url": "https://leftluggageflorence.com/",
         "text": "storage luggage"
@@ -67,8 +65,7 @@
     {
       "type": "text",
       "content": [
-        "Dear guest for the check-out you have just to leave the keys in the table inside the room, and make sure not to forget anything",
-        " turn of light A/C and close the doors.  We wish you a nice trip on your next destination :)"
+        "Dear Guest,For check-out, simply leave the keys on the table inside the room and ensure you don’t forget any of your belongings. Please also remember to turn off the lights and A/C and close all doors. We wish you a wonderful trip to your next destination!:)"
       ]
     }
   ],
@@ -76,15 +73,14 @@
     {
       "type": "text",
       "content": [
-        "Dear guest here are the numbers you can call to book a taxi",
-        "0039 4390 or 0039 4242"
+        "Dear Guest, Here are the numbers you can call to book a taxi: 📞 0039 4390 📞 0039 4242"
       ]
     }
   ],
   "ticket": [
     {
       "type": "text_with_link",
-      "content": "Dear guest, if your looking for tram ticket at every stop there is a red machine where you can buy it by cash or card. The ticket is valid for 90min once inside the tram you have to validate it... If you want to book train ticket check the official website, all main destinations have fast and normal trains Check the link ->",
+      "content": "Hi If you’re looking for tram tickets, you can find red machines at every tram stop where you can purchase them using cash or card. The ticket is valid for 90 minutes. Please remember to validate it once you’re inside the tram. If you’d like to book a train ticket, you can check the official website. All major destinations are served by both fast and regular trains. Here’s the link->",
       "link": {
         "url": "https://leftluggageflorence.com/",
         "text": "trenitalia website"
@@ -94,7 +90,7 @@
   "resta": [
     {
       "type": "text",
-      "content": "Hi if you are looking for restaurats bars or other take a look to the website, just navigate thru navbar you will find alot of places nearby:)"
+      "content": "HI If youre looking for restaurants, bars, or other places, feel free to check out the website. Simply navigate through the navbar, and you will find plenty of great spots nearby. :)"
     }
   ],
   "coffy": [
@@ -106,13 +102,13 @@
   "tap": [
     {
       "type": "text",
-      "content": "dear guest the water in room is drinketable if you want to use it. personally i dont like the taste it have but i safe"
+      "content": "Dear Guest, The tap water in the room is safe to drink if you like to use it. However, I personally dont enjoy the taste it has, but it is completely safe Thank you"
     }
   ],
   "hot": [
     {
       "type": "text",
-      "content": "dear guest the hot water it takes 30 to 50 seconds to arrive because it use an instant heating system. if hot water is not coming send me a sms"
+      "content": "Dear Guest, Please note that hot water may take 30 to 50 seconds to arrive, as we use an instant heating system. If the hot water doesn't arrive, feel free to send me a message, and i will assist you right away. Thank you for your understanding!"
     }
   ],
   "other": [
