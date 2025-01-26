@@ -114,13 +114,25 @@
   "other": [
     {
       "type": "text",
-      "content": "if you are looking for different info send me a sms directly i will be more than happy to help you:)"
+      "content": "If you need any additional information, feel free to send me a text directly. I’ll be more than happy to assist you! :)"
     }
   ],
   "default": [
     {
       "type": "text",
       "content": "Sorry, I didn't understand can you reformulated the question . if the answer doesn't fulfill you, text me directly"
+    }
+  ],
+   "stu": [
+    {
+      "type": "text",
+      "content": "It might sound a bit silly or stupid, but I’m just a chatbot! My creator tries to predict your questions and give you the best answers.Here’s a little joke: Knock Knock type (Who is there)"
+    }
+  ],
+  "stu1": [
+    {
+      "type": "text",
+      "content": "who is the stupid now ahahaha dont get mad i already predicted this"
     }
   ]
 }

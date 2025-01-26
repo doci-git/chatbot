@@ -78,8 +78,10 @@ function getBotResponse(userMessage) {
     resta: ["bar", "restaurant", "food"],
     coffy: ["coffee", "cafe", "coffeey"],
     tap: ["tapwate", "tap"],
-    hot: ["hotwater","hot"],
+    hot: ["hotwater", "hot"],
     other: ["other"],
+    stu: ["stupid", "silly"],
+    stu1: ["there"],
   };
 
   for (const [category, words] of Object.entries(keywords)) {
